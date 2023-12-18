@@ -1,4 +1,4 @@
-# Importing-Java-Packagesugtdyuy
+# Importing-Java-Packages
 import java.util.Scanner;
 
 class MyClass {
